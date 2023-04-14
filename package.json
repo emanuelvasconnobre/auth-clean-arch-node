@@ -22,7 +22,8 @@
     "jsonwebtoken": "^9.0.0",
     "module-alias": "^2.2.2",
     "nodemon": "^2.0.22",
-    "validator": "^13.9.0"
+    "validator": "^13.9.0",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
